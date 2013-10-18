@@ -1,7 +1,7 @@
 {
-    "name": "Bonami.cz without login",
-    "description": "Stránka Bonami.cz zobrazuje otravný banner vynucující přihlášení. Protože tento způsob získávání lajků a e-mailů od BFU považuji za nemorální, vyvinul jsem tento jednoduchý plugin pro odstranění otravného benneru.",
-    "version" : "0.0.0.2",
+    "name": "Bonami without login",
+    "description": "Stránka Bonami.cz zobrazuje otravný banner vynucující přihlášení. Protože tento způsob získávání lajků a e-mailů od BFU považuji za nemorální, vyvinul jsem tento jednoduchý plugin pro odstranění banneru.",
+    "version" : "0.0.0.3",
     "manifest_version" : 2,
     "icons": {
             "16": "icon16.png",
