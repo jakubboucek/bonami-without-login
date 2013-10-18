@@ -13,5 +13,6 @@
             "matches" : ["*://www.bonami.cz/*"],
             "js" : ["content.js"]
         }
-    ]
+    ],
+    "update_url": "https://bonami.s3-eu-west-1.amazonaws.com/build/updates.xml"
 }
